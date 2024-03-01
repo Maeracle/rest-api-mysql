@@ -1,0 +1,16 @@
+{
+    "e44a6c79-b16d-4c7f-a5c3-9b3f715b3386":{
+        "id":"e44a6c79-b16d-4c7f-a5c3-9b3f715b3386",
+        "name":"Rolez",
+        "price":300,
+        "quantity":70,
+        "image":"image_url1.png"
+    },
+        "4433b08b-2bf7-44c0-9f44-17bc5a1d1a7b":{
+            "id":"4433b08b-2bf7-44c0-9f44-17bc5a1d1a7b",
+            "name":"Rolex",
+            "price":300,
+            "quantity":70,
+            "image":"image_url.png"
+        }
+}
